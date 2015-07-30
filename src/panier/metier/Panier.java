@@ -1,4 +1,4 @@
-package session;
+package panier.metier;
 
 import java.util.ArrayList;
 import java.util.List;
